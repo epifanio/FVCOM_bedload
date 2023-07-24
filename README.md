@@ -1,4 +1,7 @@
 # FVCOM_bedload
+
+[![DOI](https://zenodo.org/badge/670196291.svg)](https://zenodo.org/badge/latestdoi/670196291)
+
 Compute bedload transport from FVCOM 
 
 Demonstration using the NetCDF4-Python library to compute bedload transport and bottom velocity (1 meter above bottom) from a triangular grid ocean model (FVCOM) via OPeNDAP.  The results are stored in a new NetCDF4 file. 
